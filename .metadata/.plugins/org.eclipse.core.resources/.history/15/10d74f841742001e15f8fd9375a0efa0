@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+	pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Action Tag</title>
+</head>
+<body>
+	<jsp:useBean id="bean" class="ch04.com.dao.Calculator" />
+	<p>
+		<%
+		ch04.com.dao.Calculator c = new ch04.com.dao.Calculator();
+		bean2.process(5);
+		int m = bean.process(5);
+		out.print("5의 3제곱 : "+m);
+		%>
+		<p> 
+</body>
+</html>

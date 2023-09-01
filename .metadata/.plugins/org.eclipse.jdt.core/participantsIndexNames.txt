@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\Users\it\Desktop\jspworkspace\BookMarket\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2143443212.index
+\ch04\src\main\java
+C:\Users\it\Desktop\jspworkspace\BookMarket\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\939287229.index
+\o\src\main\java
+C:\Users\it\Desktop\jspworkspace\BookMarket\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1643367292.index
+\ch0\src\main\java
+C:\Users\it\Desktop\jspworkspace\BookMarket\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1826272319.index
+\ch0\src\main\java
